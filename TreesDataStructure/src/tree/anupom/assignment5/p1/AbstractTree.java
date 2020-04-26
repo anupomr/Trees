@@ -1,12 +1,9 @@
-/**
- * 
- */
 package tree.anupom.assignment5.p1;
 
 import java.util.Iterator;
 
 /**
- * @author Anupom
+ * @author Anupom Roy 
  *
  */
 public abstract class AbstractTree<E> implements Tree<E> {
